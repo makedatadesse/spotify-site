@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+# Spotify  Project
+
+fr
+
+![img](https://www.google.com/search?q=spotify&sca_esv=088a4fa2f77d5085&udm=2&biw=1680&bih=843&sxsrf=AHTn8zp2a5KvKVLims7FGqGyTckZyYsHKw%3A1746048496536&ei=8JUSaMyiIPCHptQP5viRgAY&oq=spotif&gs_lp=EgNpbWciBnNwb3RpZioCCAAyCxAAGIAEGLEDGIMBMgoQABiABBhDGIoFMggQABiABBixAzIKEAAYgAQYQxiKBTILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDAUjNElCjBVjICnACeACQAQCYAUCgAYgDqgEBN7gBA8gBAPgBAZgCCaACpQPCAgYQABgHGB7CAg0QABiABBixAxhDGIoFwgIHECMYJxjJAsICDhAAGIAEGLEDGIMBGIoFmAMAiAYBkgcBOaAHgyiyBwE3uAejAw&sclient=img#vhid=EJxAr9DvxZhERM&vssid=mosaic)
