@@ -1,4 +1,0 @@
-spotipy:
-    client_id: 7eb3eb9606954d458388db9ff2945d9c
-    client_secret: e3fbfc18f5af4b4182c9b9ce9c096edb
-    redirect_uri: http://127.0.0.1:8889/callback
